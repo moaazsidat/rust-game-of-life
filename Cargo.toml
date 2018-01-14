@@ -1,0 +1,6 @@
+[package]
+name = "rust-game-of-life"
+version = "0.1.0"
+authors = ["Moaaz Sidat <moaaz.omer@gmail.com>"]
+
+[dependencies]
